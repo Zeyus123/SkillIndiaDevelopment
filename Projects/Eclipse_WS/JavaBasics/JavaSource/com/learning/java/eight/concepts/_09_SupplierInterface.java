@@ -1,7 +1,5 @@
 package com.java.eight.concepts;
-
 import java.util.function.Supplier;
-
 
 class SupplierTest implements Supplier {
     @Override
